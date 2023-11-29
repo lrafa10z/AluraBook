@@ -1,2 +1,4 @@
 # AluraBook
-<p>Diretório Feito para Salvar Projetos dos Cursos do Alura</p>
+<p>Rafael Martins Lobo
+<br>Carlos Manuel
+<br>Felipe da Costa</p>
